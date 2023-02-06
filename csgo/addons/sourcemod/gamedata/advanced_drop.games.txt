@@ -17,7 +17,7 @@
 				"signature"	"Helper_FillServerReservationStateAndPlayers"
 				"linux"
 				{
-					"offset"	"426"
+					"offset"	"1020"
 				}
 				"windows"
 				{
